@@ -5,7 +5,7 @@
 ThemeSift is an advanced image analysis tool that leverages cutting-edge AI technologies to automatically categorize and cluster images based on their visual themes. By combining computer vision and large language models, ThemeSift provides an intelligent solution for organizing and understanding image collections.
 
 ## Demo
-![Demo video](/DevTry.png)
+![Demo video](https://github.com/VaibhavSharma1620/ThemeSift/blob/main/files/AwesomeScreenshot-8_20_2024%2C7_06_09PM.webm)
 
 ### 🚀 Key Features
 
