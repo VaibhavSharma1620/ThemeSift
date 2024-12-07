@@ -4,6 +4,9 @@
 
 ThemeSift is an advanced image analysis tool that leverages cutting-edge AI technologies to automatically categorize and cluster images based on their visual themes. By combining computer vision and large language models, ThemeSift provides an intelligent solution for organizing and understanding image collections.
 
+## Demo
+![Demo video](/DevTry.png)
+
 ### 🚀 Key Features
 
 - **Intelligent Caption Generation**: Uses BLIP image captioning model to generate descriptive captions for images
@@ -84,7 +87,7 @@ ThemeSift is an advanced image analysis tool that leverages cutting-edge AI tech
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📄 License
-[Specify your license here, e.g., MIT]
+Distributed under the MIT License. See LICENSE for more information.
 
 ## 🙏 Acknowledgements
 - Salesforce BLIP Model
