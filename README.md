@@ -7,7 +7,7 @@ ThemeSift is an advanced image analysis tool that leverages cutting-edge AI tech
 ## Demo
 Demo is saved at the path : /demo.webm
 
-
+![SEDAR CAPTCHA Screenshot](https://www.youtube.com/watch?v=sAcj8me7wGI&t=629s)
 ### 🚀 Key Features
 
 - **Intelligent Caption Generation**: Uses BLIP image captioning model to generate descriptive captions for images
